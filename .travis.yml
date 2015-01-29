@@ -1,4 +1,10 @@
+language: node_js
+install: npm install gitbook
+node_js:
+- '0.10'
+
 deploy:
+  script: gitbook build 
   provider: s3
   access_key_id: AKIAJTHGOY5YOOJ2G4VQ
   secret_access_key:
