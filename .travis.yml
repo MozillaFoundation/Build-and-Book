@@ -1,6 +1,8 @@
 language: node_js
-install: npm install gitbook
-before_script: gitbook install gitbook-theme-webmaker
+install: npm install git+https://github.com/davidascher/gitbook.git#patch-1
+# usually, just:
+# install: npm install gitbook
+before_script: gitbook install 
 node_js:
 - '0.10'
 
