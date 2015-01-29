@@ -15,8 +15,5 @@
   "bugs": {
     "url": "https://github.com/MozillaFoundation/mofobook/issues"
   },
-  "homepage": "https://github.com/MozillaFoundation/mofobook",
-  "dependencies": {
-    "gitbook-theme-webmaker": "0.0.2"
-  }
+  "homepage": "https://github.com/MozillaFoundation/mofobook"
 }
