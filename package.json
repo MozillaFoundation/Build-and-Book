@@ -1,14 +1,19 @@
 {
   "name": "mofobook",
   "version": "1.0.0",
-  "description": "",
+  "description": "Welcome to MoFoBook",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test needed\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MozillaFoundation/mofobook.git"
   },
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "gitbook-plugin": "0.0.2"
-  }
+  "license": "MPLv2",
+  "bugs": {
+    "url": "https://github.com/MozillaFoundation/mofobook/issues"
+  },
+  "homepage": "https://github.com/MozillaFoundation/mofobook"
 }
