@@ -2,20 +2,20 @@ language: node_js
 install: npm install git+https://github.com/davidascher/gitbook.git#webmaker-styling
 # usually, just:
 # install: npm install gitbook
-before_script: gitbook install 
+before_script: gitbook install
 node_js:
 - '0.10'
 
-script: gitbook build 
+script: gitbook build
 deploy:
   provider: s3
-  access_key_id: AKIAJTHGOY5YOOJ2G4VQ
+  access_key_id: AKIAJIKEGL5B4WJSCJRQ
   secret_access_key:
-    secure: BuCbDAUK8EC5qd1fXimztR84yD2Tx/ZchuyqNtXB7zJXFZx/aCw94sa8T52vEUsVaqNutrolNRNkcbXX9Y2xiEs8PnShDJ8asa+Ho+dBU+0pZL9qyaSrqmYRECHMiWcCOubZV30z1Spc8MEsJdo2IzWaB7aU+Mik8WOgcgi9W84=
+    secure: "Wqg6+yJud47j78TPqZU+F/SWSgtilzriPw96DU8qtEkaOdIAeZSZTCfb53hxs8GAF8zRXF1h/r+Cn4EflDqhQTkWS64iRvlr5Oqg2KIIeRIUNVukcFBsh1fvAksIu/kl/Mqo6qDouwrSHlmKjDfEuh9+kbjRa3atevpoTFCFJlM="
   bucket: "mofobook"
   acl: public_read
   skip_cleanup: true
-  endpoint: "mofobook.s3-website-us-west-2.amazonaws.com"
+  endpoint: "book.webmaker.org.s3-website-us-east-1.amazonaws.com"
   local_dir: "_book"
 
 
