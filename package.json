@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/MozillaFoundation/mofobook",
   "dependencies": {
-    "gitbook-theme-webmaker": "0.0.1"
+    "gitbook-theme-webmaker": "0.0.2"
   }
 }
