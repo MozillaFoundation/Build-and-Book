@@ -1,0 +1,9 @@
+deploy:
+  provider: s3
+  access_key_id: AKIAJTHGOY5YOOJ2G4VQ
+  secret_access_key:
+    secure: BuCbDAUK8EC5qd1fXimztR84yD2Tx/ZchuyqNtXB7zJXFZx/aCw94sa8T52vEUsVaqNutrolNRNkcbXX9Y2xiEs8PnShDJ8asa+Ho+dBU+0pZL9qyaSrqmYRECHMiWcCOubZV30z1Spc8MEsJdo2IzWaB7aU+Mik8WOgcgi9W84=
+  bucket: 'mofobook'
+  acl: public_read
+  skip_cleanup: true
+  endpoint: "mofobook.s3-website-us-west-2.amazonaws.com"
