@@ -9,10 +9,10 @@ node_js:
 script: gitbook build
 deploy:
   provider: s3
-  access_key_id: AKIAJIKEGL5B4WJSCJRQ
+  access_key_id: AKIAJ643ITA2WHMEIC7A
   secret_access_key:
-    secure: Wqg6+yJud47j78TPqZU+F/SWSgtilzriPw96DU8qtEkaOdIAeZSZTCfb53hxs8GAF8zRXF1h/r+Cn4EflDqhQTkWS64iRvlr5Oqg2KIIeRIUNVukcFBsh1fvAksIu/kl/Mqo6qDouwrSHlmKjDfEuh9+kbjRa3atevpoTFCFJlM=
-  bucket: "mofobook"
+    secure: "EYlP2zBT4srDusqjJ4PBFxWQnvIPy1cPLDKMAoAloY/Ys14/dFM3awWxZJ8vqPsVBbCNc5uDVrLZEkQiCi4du615J9WW5ZY+symxGW0gRwK8mUZqZSXA4AohsWByM6K4uCFPT5VrgIId/CBdJwHyuIpQrREbkP4MTb7hq1jdflc="
+  bucket: "book.webmaker.org"
   acl: public_read
   skip_cleanup: true
   endpoint: "book.webmaker.org.s3-website-us-east-1.amazonaws.com"
