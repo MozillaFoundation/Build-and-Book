@@ -1,6 +1,8 @@
 Welcome to MoFoBook
 =====
 
+[![Build Status](https://travis-ci.org/MozillaFoundation/mofobook.svg?branch=master)](https://travis-ci.org/MozillaFoundation/mofobook)
+
 This book is where we're documenting how MoFos work on making stuff.
 
 It is intended for both staff and volunteers who want to help us achieve the goals set in the [2015 plan](/learning2015/plan).
