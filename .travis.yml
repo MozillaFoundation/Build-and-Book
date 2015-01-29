@@ -11,7 +11,7 @@ deploy:
   provider: s3
   access_key_id: AKIAJIKEGL5B4WJSCJRQ
   secret_access_key:
-    secure: "Wqg6+yJud47j78TPqZU+F/SWSgtilzriPw96DU8qtEkaOdIAeZSZTCfb53hxs8GAF8zRXF1h/r+Cn4EflDqhQTkWS64iRvlr5Oqg2KIIeRIUNVukcFBsh1fvAksIu/kl/Mqo6qDouwrSHlmKjDfEuh9+kbjRa3atevpoTFCFJlM="
+    secure: Wqg6+yJud47j78TPqZU+F/SWSgtilzriPw96DU8qtEkaOdIAeZSZTCfb53hxs8GAF8zRXF1h/r+Cn4EflDqhQTkWS64iRvlr5Oqg2KIIeRIUNVukcFBsh1fvAksIu/kl/Mqo6qDouwrSHlmKjDfEuh9+kbjRa3atevpoTFCFJlM=
   bucket: "mofobook"
   acl: public_read
   skip_cleanup: true
