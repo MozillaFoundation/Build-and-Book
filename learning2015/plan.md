@@ -1,3 +1,7 @@
+Mozilla Learning in 2015: our vision and plan
+=======
+
+
 _This post is a shortened, web page version of the **[2015 Mozilla Learning plan](https://wiki.mozilla.org/Learning/2015)** we shared back in December. Over the next few weeks, we&#8217;ll be blogging and encouraging [team and community members](https://github.com/MozillaFoundation/plan/issues/245) to post their reflections and detail on specific pieces of work in 2015 and Q1. Please post your comments and questions here &#8212; or [get more involved](http://build.webmaker.org/)._
 
 ### [![Surman Keynote for Day One - Edit.002](http://openmatt.org/wp-content/uploads/2015/01/Surman-Keynote-for-Day-One-Edit.002-1024x576.jpg)](http://openmatt.org/wp-content/uploads/2015/01/Surman-Keynote-for-Day-One-Edit.002.jpg)
