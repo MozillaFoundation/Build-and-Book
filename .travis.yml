@@ -1,5 +1,5 @@
 language: node_js
-install: npm install git+https://github.com/davidascher/gitbook.git#patch-1
+install: npm install git+https://github.com/davidascher/gitbook.git#webmaker-styling
 # usually, just:
 # install: npm install gitbook
 before_script: gitbook install 
