@@ -18,3 +18,4 @@ deploy:
   endpoint: "mofobook.s3-website-us-west-2.amazonaws.com"
   local_dir: "_book"
 
+
