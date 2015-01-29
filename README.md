@@ -1,4 +1,4 @@
-Welcome to book.webmaker.org
+The Book of Webmaker
 =====
 
 This book is where we're documenting how MoFos work on making stuff together.
