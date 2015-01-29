@@ -1,6 +1,15 @@
 {
     "plugins": ["-mathjax"],
     "links": {
+      "sharing": {
+          "all": false,
+          "google": false,
+          "facebook": false,
+          "twitter": false
+      },
+      "sidebar": {
+        "build.webmaker.org": "https://build.webmaker.org"
+        },
       "gitbook": false
     }
 }
