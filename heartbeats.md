@@ -15,6 +15,11 @@ Working in two-week “Heartbeats:” how and why
 
 * *Build on what works*. Small teams that know what they’re accountable for and have the freedom to move.
 
+The rest of this page describes the motivation and overall flow of heartbeats.  If you just want to know how to work with heartbeats or github issues, we have two sub-chapters for that:
+
+* [Heartbeat FAQ](./faq.html)
+* [GitHub FAQ](./)
+
 A typical heartbeat
 -------------------
 
