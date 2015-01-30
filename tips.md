@@ -6,11 +6,11 @@ At MoFo, we have two kinds of tickets.  The run-of-the-mill GitHub issue, and th
 
 1. To file a meta issue, use the [bespoke form](http://build.webmaker.org/add) we built just for that purpose.  It'll make sure your ticket is as complete as possible without being boring: 
 
-![add meta](./addmeta.png)
+![add meta](images/addmeta.png)
 
 2. To file a regular issue, find the repo that is most likely relevant, click on the issues icon in the right, then click on the green New Issue button
 
-![issues](./issues.png)
+![issues](images/issues.png)
 
 It's easy to create a ticket! 
 

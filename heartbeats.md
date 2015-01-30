@@ -1,7 +1,7 @@
 Working in two-week “Heartbeats:” how and why
 ============
 
-![silly image](./bugs.gif)
+![silly image](images/bugs.gif)
 
 *Webmaker is committed to working in the open, increasing our agility, and learning as we go*. To do that, we work in two-week “Heartbeats” or sprints. Here’s why:
 
@@ -23,7 +23,7 @@ The rest of this page describes the motivation and overall flow of heartbeats.  
 A typical heartbeat
 -------------------
 
-![heartbeat illustration](./heartbeat.png)
+![heartbeat illustration](images/heartbeat.png)
 
 **Here’s what a typical two-week process might look like** (TL;DR version):
 
@@ -39,7 +39,7 @@ A typical heartbeat
 
 *That’s it!* Layer on whatever other meeting, communicating and dance parties required. Rinse and repeat.
 
-![other heartbeat illustration](./Heartbeat-Process.png)
+![other heartbeat illustration](images/Heartbeat-Process.png)
 
 
 # Heartbeat Process
