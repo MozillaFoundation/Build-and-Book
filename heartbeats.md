@@ -17,8 +17,8 @@ Working in two-week “Heartbeats:” how and why
 
 The rest of this page describes the motivation and overall flow of heartbeats.  If you just want to know how to work with heartbeats or github issues, we have two sub-chapters for that:
 
-* [Heartbeat FAQ](./faq.html)
-* [GitHub FAQ](./)
+* [Heartbeat FAQ](heartbeat_faq.html)
+* [GitHub FAQ](github_faq.html)
 
 A typical heartbeat
 -------------------

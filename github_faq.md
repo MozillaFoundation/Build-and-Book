@@ -16,8 +16,6 @@ The  Mozilla Foundation is increasingly using GitHub issues for our issue tracki
 * [I'm ready to start. Now what?](#start)
 * [I'm stuck!](#im_stuck)
 * [Which GitHub repo should I use?](#whichrepo)
-* Why are some of our repos listed under "mozilla" instead of "mozillafoundation"? 
-
 * [What's the /plan repo?](#whatsplan)
 * [Explain Heartbeats again?](#heartbeats)
 
@@ -146,7 +144,7 @@ It's the repo where we track the initiatives to resource and schedule them in he
 
 Software generally should end up under the `mozilla` org, but it may make sense to start exploring in your personal repo until you're ready for collaborators.  We can transfer a repo from an individual to an org when that's needed (sometime after rough draft and before it shows up in a heartbeat, and well before it shows up in production).
 
-Repos that are primarily used to either house documents or just issues can be in any of the orgs we have (`mozilla`, `MozillaFoundation`, `MozillaHive`).  Creating a new 'org' means you get a space that random people won't find easily, and that contributors won't find if they're not clued in, so we generally don't recommend it.
+Repos that are primarily used to either house documents or just issues can be in any of the orgs we have (`mozilla`, `MozillaFoundation`, `MozillaHive`).  Creating a new 'org' means you get a space that contributors won't find if they're not clued in, so we generally don't recommend it.
 
 ## <a name="more"></a>Unanswered questions
 
