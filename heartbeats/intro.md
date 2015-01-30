@@ -37,15 +37,13 @@ A typical heartbeat
 ![other heartbeat illustration](./Heartbeat-Process.png)
 
 
-= Heartbeat Process
+# Heartbeat Process
 
 *Here’s the more detailed version of that same process:*
 
-Week 1
-======
+## Week 1
 
-Mon
----
+### Mon
 
 * *Clean up*. Tie off any loose ends from previous week. Push to production, write blog posts or documentation, communicate out, etc.
 
@@ -53,8 +51,7 @@ Mon
 
 * *Publicly document and share priorities*. At build.webmaker.org/now. This is the finalized set of priorities for the Heartbeat. It’s publicly visible, shareable, and always up to date. Plus includes owners and roles for each project.
 
-Tues
-----
+### Tues
 
 * *Kick-off meetings.* Project owners and teams get together to plan and communicate up front. Co-leadership, consultation and white-boarding happen. Good kick-off meetings are essential; here’s a template we can edit together to make them awesome.
 
@@ -62,26 +59,21 @@ Tues
 
 * *Resourcing*. Review for bottlenecks. Who’s got too much on? Who can help?
 
-Wed – Fri
----------
+### Wed – Fri
 
 * *Daily stand-ups*. On all P1s. 15 mins max. Status check: red, yellow, green. All issues with the “needs discussion” label are reviewed together as a team.
 
-Week 2
-======
+## Week 2
 
-Mon
----
+### Mon
 
 *Halfway point*. Project teams meet to review progress. Reality-check. Includes a check-in for each team member about the issues assigned to them. What adjustments do we need to make?
 
-Tues – Thurs
-------------
+### Tues – Thurs
 
 *Daily stand-ups*. (Same as previous.)
 
-Friday
-------
+### Friday
 
 * *Demo*. Cross the finish line together. Review completed work, including all P1s. All interested stakeholders (that means you!) are welcome to attend — it’s a chance to see what we got done together. (note: new time for demos = 11am PT / 1pm ET)
 
@@ -89,8 +81,7 @@ Friday
 
 * *Proposals*. Plan for next Heartbeat. Given the milestones we’ve set together for the quarter, where should we focus next? Some structure and planning will already exist — but take the afternoon to review, consult with colleagues and make proposals.
 
-New tools and dashboards
-=========================
+# New tools and dashboards
 
 New project intake process. Anyone is able to propose a piece of work at [build.webmaker.org/add](https://build.webmaker.org/add). It guides you through a project intake process and template that will help us put distributed leadership into action.
 

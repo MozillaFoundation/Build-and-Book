@@ -1,7 +1,7 @@
 This is the TOC on the sidebar.  Probably shows up in a PDF version too.
 
 * [Heartbeats](heartbeats/intro.md)
- * [Starting something new](heartbeats/new.md)
+  * [Heartbeat FAQ](heartbeats/faq.md)
+  * [GitHub FAQ](faq.md)
+    * [GitHub Tips](tips.md)
 * [Learning 2015](learning2015/plan.md)
- * [product](learning2015/product.md)
- * [networks](learning2015/networks.md)
