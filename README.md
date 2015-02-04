@@ -1,5 +1,5 @@
 # How we work together
-![](/http://openmatt.org/wp-content/uploads/2015/01/Surman-Keynote-for-Day-One-Edit.002-1024x576.jpg)
+![welcome](/http://openmatt.org/wp-content/uploads/2015/01/Surman-Keynote-for-Day-One-Edit.002-1024x576.jpg)
 **Open. Agile. Fun.** Through continuous learning and improvement. That’s how we want to work together on [Mozilla Webmaker.](http://webmaker.org/) This handbook documents the **systems**, **tools** and **philosophy** we use to do that. With handy links, process points, and answers to freqently asked question. Please [let us know](https://github.com/MozillaFoundation/book.webmaker.org/issues/new) if you see something missing or wrong.
 
 ### Our mission
