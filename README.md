@@ -1,8 +1,6 @@
-The Book of Webmaker
-=====
+# How we work together
+![](/http://openmatt.org/wp-content/uploads/2015/01/Surman-Keynote-for-Day-One-Edit.002-1024x576.jpg)
+**Open. Agile. Fun.** Through continuous learning and improvement. That’s how we want to work together on [Mozilla Webmaker.](http://webmaker.org/) This handbook documents the systems, tools and philosophy we use to do that. With handy links, process points, and answers to freqently asked question. Please [let us know](https://github.com/MozillaFoundation/book.webmaker.org/issues/new) if you see something missing or wrong.
 
-This book is where we're documenting how MoFos work on making stuff together.
-
-It is intended for both staff and volunteers who want to help us achieve the goals set in the [2015 plan](learning2015_plan.html).
-
-The [first chapter](heartbeats.html) is ready for review -- it covers heartbeats and our usage of GitHub issues in particular.  Please [file issues](https://github.com/MozillaFoundation/book.webmaker.org/issues/) if you see things that are wrong, missing, or just confusing.
+### Our mission
+**We are a diverse global community that strives to be open, welcoming and friendly to newcomers at all times**. Our goal is clear documentation, on-ramps, and ways to see and track our work. With public demos open to all at the end of each sprint. **Our [mission](http://webmaker.org/about) is to build a more web literate world**, helping people teach and learn the skills they need to thrive, create and lead in a digital age. With a shared vision of the concrete steps we'll take together each [sprint](http://build.webmaker.org/now), [quarter](https://wiki.mozilla.org/Foundation/2015/Q1) and [year](https://blog.webmaker.org/2015_plan).
