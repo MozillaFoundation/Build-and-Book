@@ -12,7 +12,7 @@ This is the TOC on the sidebar.  Probably shows up in a PDF version too.
   * [Planning Tickets](plan.md)
   * [Roles](roles.md)
   * [Prioritizing](priorities.md)
-  * [Kick-off meetings](priorities.md)
+  * [Kickoff meetings](priorities.md)
   * [Sign-off checklist](checklist.md)
   * [Demos](demos.md)
 * [Tools](tools.md)
