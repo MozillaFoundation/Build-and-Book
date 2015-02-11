@@ -14,7 +14,7 @@ This is the TOC on the sidebar.  Probably shows up in a PDF version too.
   * [Sign-offs](checklist.md)
   * [Demos](demos.md)
 * [GitHub issues](github.md)
-   * [Where to file](file.md)
+   * [Filing](file.md)
    * [Tips](tips.md)
    * [FAQ](github_faq.md)
 * [Design](design.md)
