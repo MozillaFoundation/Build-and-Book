@@ -9,6 +9,7 @@ This is the TOC on the sidebar.  Probably shows up in a PDF version too.
   * [Q4](Q4.md)
 * [Process](heartbeats.md)
   * [Heartbeats](heartbeats.md)
+  * [Planning Tickets](plan.md)
   * [Roles](roles.md)
   * [Prioritizing](priorities.md)
   * [Kick-off meetings](priorities.md)
