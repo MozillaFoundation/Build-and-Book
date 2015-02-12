@@ -18,8 +18,6 @@ Ok.
 - **Development Lead**: "And I'll do the same for any engineering work required."
 - **Quality Verifier**: "Great! I'll be responsible for doing a final check to ensure the soup is hot, tasty, and something we're proud to serve."
 
-"
-
 
 
 
