@@ -1,4 +1,4 @@
-Mozilla Learning: our vision and plan for 2015
+Mozilla Learning: our 2015 plan
 =======
 
 ### [![Surman Keynote for Day One - Edit.002](http://openmatt.org/wp-content/uploads/2015/01/Surman-Keynote-for-Day-One-Edit.002-1024x576.jpg)](http://openmatt.org/wp-content/uploads/2015/01/Surman-Keynote-for-Day-One-Edit.002.jpg)
