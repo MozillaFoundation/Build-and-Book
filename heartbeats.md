@@ -1,10 +1,19 @@
-Working in two-week “Heartbeats:” how and why
+Planning and sprinting in two-week “Heartbeats"
 ============
 
 ![silly image](images/bugs.gif)
 
-*Webmaker is committed to working in the open, increasing our agility, and learning as we go*. To do that, we work in two-week “Heartbeats” or sprints. Here’s why:
+##TL;DR
+- **We work in two-week "heartbeats" or "sprints"**. Translating our quarterly goals into bite-sized pieces we can hack on and learn from quickly. 
+- **Everything is transparent.** To see what we're working on this Heartbeat, go here: http://build.webmaker.org/now To see what's on deck for the next one, go here: http://build.webmaker.org/next
+- **Anyone can propose a project.** So long as it fits with our mission and goals. (e.g., we're probably not going to build your octocopter.) Use the project intake form here: http://build.webmaker.org/add
+- **We work together across teams.** Heartbeats focus on mini-projects where people work together _directly_, regardless of the org chart. Designers, developers, project managers, community members, fundraisers, cats, dogs -- we all sprint together. 
+- **We set clear priorities for each heartbeat.** Top priorities are labelled "P1." Others are "P2." P1 means *must* do. P2 means "do if we have time." P2s that don't get done in one heartbeat move to the front for the next one. 
+- **We have a Heartbeat planning meeting at the start.** Each key project then has a **kick-off meeting** to make sure everyone's clear on roles and on the same page. 
+- **We demo what we got done at the end** All P1s demo, even if they're not done. We share what we learned. Demos are fun. You should come. 
 
+
+##Why?
 * *Openness*. More visibility for all stakeholders. Easier to see what we’re working on. Plus: easier to get your own ideas and work into the queue.
         
 * *Continuous improvement*. Move faster, work smoother, work better. 
