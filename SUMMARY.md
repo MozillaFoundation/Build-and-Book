@@ -5,7 +5,6 @@ This is the TOC on the sidebar.  Probably shows up in a PDF version too.
 * [Our 2015 plan](learning2015_plan.md)
   * [Q1](Q1.md)
   * [Q2](Q2.md)
-* [Get in touch](comms.md)
 * [Our Process](heartbeats.md)
   * [Heartbeats](heartbeats.md)
   * [Roles](roles.md)
@@ -20,6 +19,6 @@ This is the TOC on the sidebar.  Probably shows up in a PDF version too.
   * [FAQ](github_faq.md)
 * [Design](design.md)
 * [Engineering](engineering.md)
-* [Program Reviews](programreview.md)
+* [Communications](comms.md)
 * [Edit this book](about.md)
 
