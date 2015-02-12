@@ -1,8 +1,8 @@
 ![](/https://dl.dropboxusercontent.com/spa/6c38yp3crbxni5b/u4xki459.png)
 Every **Planning Ticket** has a priority label attached to it:  "P1" or "P2." These labels get discussed and set at the beginning of each Heartbeat, in the Heartbeat Planning Meeting. 
 ![](/https://dl.dropboxusercontent.com/spa/6c38yp3crbxni5b/vlpbya-9.png)
-**"P1" means: must do**. Often this means that there's a hard external deadline associated with it. Like a launch date, funder requirement or event.
-**"P2" means: _try_ to do**. When we have time left over from our P1s, we try to get these done as well. (And we often do.)  
+- **"P1" means: must do**. Often this means that there's a hard external deadline associated with it. Like a launch date, funder requirement or event.
+- **"P2" means: _try_ to do**. When we have time left over from our P1s, we try to get these done as well. (And we often do.)  
 
 ![](/https://dl.dropboxusercontent.com/spa/6c38yp3crbxni5b/vodigbl-.png)
 
@@ -16,7 +16,7 @@ Every **Planning Ticket** has a priority label attached to it:  "P1" or "P2." Th
 ###Tips for getting your project prioritized
 - **Use the [project intake form](http://build.webmaker.org/add).** 
 - **State the metrics for success.** Otherwise, it's hard to tell whether the effort is worth it. 
-- **Understand and reference our quarterly goals.** Our priorities aren't a secret -- [we post them publicly](http://book.webmaker.org/index.html). 
+- **Understand and reference our quarterly goals.** Our priorities aren't a secret -- [we post them publicly] (http://book.webmaker.org/index.html). 
 
 
 
