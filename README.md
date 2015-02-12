@@ -1,5 +1,4 @@
 # How we work
-![welcome](/http://openmatt.org/wp-content/uploads/2015/01/Surman-Keynote-for-Day-One-Edit.002-1024x576.jpg)
 **Open. Agile. Fun.** Working hands-on with our global community. That’s how we do at [Mozilla Webmaker.](http://webmaker.org/) This handbook documents the **systems**, **tools** and **controlled chaos** we use to do that. [Let us know](https://github.com/MozillaFoundation/book.webmaker.org/issues/new) if you have questions, suggestions or see something here that's missing or wrong -- or just say hello any time. 
 ### [![Surman Keynote for Day One - Edit.002](http://openmatt.org/wp-content/uploads/2015/01/Surman-Keynote-for-Day-One-Edit.002-1024x576.jpg)](http://openmatt.org/wp-content/uploads/2015/01/Surman-Keynote-for-Day-One-Edit.002.jpg)
 ### Our mission
