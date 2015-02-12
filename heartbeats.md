@@ -47,8 +47,8 @@ A typical heartbeat
 New project intake process. Anyone is able to propose a piece of work at [build.webmaker.org/add](https://build.webmaker.org/add). It guides you through a project intake process and template that will help us put distributed leadership into action.
 
 ##More meat
-* Demos -- tips and tricks for how we do demos at the end of each Heartbeat.
-* Kick-off meetings. These are an art -- and an extremely important part of making the overall process work. 
-* Stand-up meetings
-* Sign-off checklist -- how do we know when someone's done and ready to ship? How do we do Quality Assurance (QA) and make sure nothing blows up?
+* **Kick-off** meetings. These are an art -- and an extremely important part of making the overall process work. 
+* **Stand-up meetings** -- these are short (15 minutes max), start precisely on time, and are there to ensure you get help fast.  
+* **Demos** -- tips and tricks for how we do demos at the end of each Heartbeat.
+* **Sign-off checklist**-- how do we know when someone's done and ready to ship? How do we do Quality Assurance (QA) and make sure nothing blows up?
 
