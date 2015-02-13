@@ -9,7 +9,7 @@ This is the TOC on the sidebar.  Probably shows up in a PDF version too.
   * [Heartbeats](heartbeats.md)
   * [Roles](roles.md)
   * [Priorities](priorities.md)
-  * [Kick-offs](priorities.md)
+  * [Kick-offs](kickoffs.md)
   * [Sign-offs](checklist.md)
   * [Demos](demos.md)
 * [GitHub issues](github.md)
