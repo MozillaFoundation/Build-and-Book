@@ -5,7 +5,7 @@ This is the TOC on the sidebar.  Probably shows up in a PDF version too.
 * [Our 2015 plan](learning2015_plan.md)
   * [Q1](Q1.md)
   * [Q2](Q2.md)
-* [Our Process](heartbeats.md)
+* [Our Process](process.md)
   * [Heartbeats](heartbeats.md)
   * [Roles](roles.md)
   * [Priorities](priorities.md)
