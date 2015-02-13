@@ -1,7 +1,10 @@
-## Working the process
+## Our process
 ![](/https://farm6.staticflickr.com/5048/5319988695_22db1bded5_o_d.png)
-**Getting better at getting better**. Our goal for 2015 is to make our process more transparent, agile, and open to community contributors. We're continually evolving and documenting how we do that. Here's a high-level summary, with links to more detail on each: 
+**Getting better at getting better**. Our goal for 2015 is to make our process more transparent, agile, and open to community contributors. We're continually evolving and documenting how we do that. (And we've changed a bunch of our tools and process recently, so we frequently trip and break things.)  
 
+Here's a high-level summary, with links to more detail on each: 
+
+* [Working open](http://openmatt.org/2011/04/06/how-to-work-open/) -- We're committed to transparency, agility and community participation. 
 * [Planning](learning2015_plan.md) -- we plan yearly and quarterly. Then translate our quarterly goals into two-week sprints or "Heartbeats," to that we can learn and adapt as we go.  
 * [Heartbeats](heartbeats.md) -- each two-week Heartbeat has a beginning, middle and end. We ritualize and seek to continually improve it. 
 * [Projects](plan.md) -- each Heartbeat focuses on a small number of key projects. Each of those projects has a Planning Ticket associated with it. To ensure we're clear on the high-level goals, roles, and status. 
