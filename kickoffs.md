@@ -1,4 +1,4 @@
-## Kick-Off Meetings
+## Project Kick-Off Meetings
 ![](/https://farm4.staticflickr.com/3328/5755219051_31e445fdd5_o_d.png)
 ### **Summary**
 - **Good kick-off meetings are essential**. Over-communicate, plan and ticket at the *start* of the process. This will save you time and headaches later. Kick-offs are the booster rocket that propels you through the entire sprint.
