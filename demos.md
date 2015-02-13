@@ -1,15 +1,15 @@
 ##Webmaker Demos## 
-Demos happen every other Friday at 10am PST, 1pm EST, 6pm GMT (changed)
+Demos happen every other Friday at 10am PST, 1pm EST, 6pm GMT
 - Etherpad: https://webmaker.etherpad.mozilla.org/demos
-- Vidyo room: Webmaker
-- Webmaker vidyo room https://v.mozilla.com/flex.html?roomdirect.html&key=s4b8i9Kru2Rv
-- Invite code: http://mzl.la/Webmaker_demos  (Webmaker)
-- Recordings: https://air.mozilla.org/channels/webmaker/
+- Join via video conference: Vidyo room: [Webmaker](https://v.mozilla.com/flex.html?roomdirect.html&key=s4b8i9Kru2Rv) [Invite code:](http://mzl.la/Webmaker_demos)
+- Recordings of past demos: https://air.mozilla.org/channels/webmaker/
 - Webmaker calendar: http://mzl.la/webmaker-events-calendar
+![](/https://wiki.mozilla.org/images/thumb/5/58/Power_Ranger.png/800px-Power_Ranger.png)
+_That time a Power Ranger showed up to Webmaker Demos_
 
 #How we do demos#
 
-**Rotating MCs**. It’s more fun when we have different folks leading the call. If you’d like to MC, please volunteer in the demos pad.
+**Rotating MCs**. It’s more fun when we have different folks leading the call. If you’d like to MC, please volunteer in the [demos pad](https://webmaker.etherpad.mozilla.org/demos).
 
 **5 minutes**
 You now have 5 minutes to give your demo. Make it count! A few pointers:
