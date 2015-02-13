@@ -3,7 +3,7 @@
 1. **[Create a free GitHub account](https://github.com/)** if you don't already have one. Pick a nickname that's obvious or close to your own name, to make it easier for colleagues to find you.
 2. [Log in](https://github.com/login)
 3. **Fill out your [profile](https://github.com/settings/profile)**
-4. **Get added to Mozilla Foundation**. Ask one of the [owners group](https://github.com/orgs/MozillaFoundation/teams/owners) members to add you to the ["MozillaFoundation" organization](https://github.com/MozillaFoundation), so that your handle will come up in autocomplete for example.
+4. **Get added to Mozilla Foundation**. Ask one of the [owners group](https://github.com/orgs/MozillaFoundation/teams/owners) members to add you to the ["MozillaFoundation" organization](https://github.com/MozillaFoundation).
 
 
 ### Play around
