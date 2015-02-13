@@ -1,6 +1,6 @@
 ##Webmaker Demos## 
 Demos happen every other Friday at 10am PST, 1pm EST, 6pm GMT
-- Etherpad: https://webmaker.etherpad.mozilla.org/demos
+- Demos etherpad: https://webmaker.etherpad.mozilla.org/demos
 - Join via video conference: Vidyo room: [Webmaker](https://v.mozilla.com/flex.html?roomdirect.html&key=s4b8i9Kru2Rv) [Invite code:](http://mzl.la/Webmaker_demos)
 - Recordings of past demos: https://air.mozilla.org/channels/webmaker/
 - Webmaker calendar: http://mzl.la/webmaker-events-calendar
