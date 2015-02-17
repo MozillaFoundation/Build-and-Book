@@ -5,12 +5,12 @@
 When in doubt, file under [webmaker.org](https://github.com/mozilla/webmaker.org/issues).
 
 ***Learning Products***
-* **[Webmaker.org]** (https://github.com/mozilla/webmaker.org/issues)
-* [Webmaker App] (https://github.com/mozilla/webmaker-app/issues)
+* [Webmaker.org](https://github.com/mozilla/webmaker.org/issues)
+* [Webmaker App](https://github.com/mozilla/webmaker-app/issues)
 * [Other Webmaker repos](https://github.com/mozilla/?query=webmaker) 
 
 ***Learning Networks***
-* **[Mozilla Learning]** (https://github.com/MozillaFoundation/Mozilla-Learning/issues)
+* [Mozilla Learning](https://github.com/MozillaFoundation/Mozilla-Learning/issues)
 * [Curriculum](https://github.com/mozilla/webmaker-curriculum/issues)
 * [Webmaker Training](https://github.com/mozilla/school-of-webmaking/issues)
 * [Webmaker whitepapers](https://github.com/mozilla/webmaker-whitepaper/issues)
