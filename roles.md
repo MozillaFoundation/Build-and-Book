@@ -40,27 +40,28 @@ They're the primary design resource on the project.  They will refer to our styl
 
 ## <a name="leaddev"></a>What does the Lead Dev do?
 
-Similarly, the lead dev is the primary technical point of contact for the project.  Many developers may end up contributing to the project, but the lead dev has the responsibility to look broadly at the problem. Are there aspects of the scope that need to be considered that maybe missed discussion at the kickoff meeting?  Security considerations? Privacy or data handling concerns?  Are tests being written?  The dev lead is encouraged to seek feedback, check with colleagues, managers, and others, but is on the hook for the engineering work completing during the heartbeat process.
+Similarly, the lead dev is the primary technical point of contact for the project.  Many developers may end up contributing to the project, but the lead dev has the responsibility to look broadly at the problem. Are there aspects of the scope that need to be considered that maybe missed discussion at the kickoff meeting?  Security considerations? Privacy or data handling concerns?  Are tests being written?  The dev lead is encouraged to seek feedback, check with colleagues, managers, and others, and is on the hook for ensuring the engineering work gets completed during the heartbeat.
 
-## <a name="quality"></a>What is the role of the quality lead?
+## <a name="quality"></a>What does the quality lead do?
 
-Everyone on the team is accountable for working together and ensuring that the initiative progresses with speed and quality.  The quality lead is someone who may not be deeply involved in the day-to-day of the initiative, but will cast a critical eye on the quality of the work, ideally getting involved at three phases:
+The Quality Lead may not be deeply involved in the day-to-day of the initiative, but will cast a critical eye on the quality of the work, ideally getting involved at three phases:
 
-* early on in the initiative, to understand and/or specify the quality benchmark that is aimed for
-* mid-point, to detect deviations from that target and possibly correct course
-* at the tail end of the initiative, to point out rough edges that should be corrected in the last few days.
-
-
+* early on in the initiative. To understand and/or specify the quality benchmark we're aiming for.
+* mid-point. To detect deviations from that target, and possibly correct course.
+* at the tail end of the initiative. To point out rough edges that should be corrected in the last few days.
 
 
-##Here's an example
+
+
+##Here's an example of how the roles interact
 - **Decision-Maker**: "We're going to make carrot soup. It needs to be served at lunch on Feb 21. The metrics for success are: at least 20 happy soup customers." 
 - **Driver**: "Ok. I'll schedule a Project Kick-Off meeting. And make sure the individual tasks required (buy carrots, chop carrots, sautee and blend carrots, serve soup) are clearly ticked and assigned."
 - **Design Lead**: "I'll be responsible for ensuring all design work required for the soup gets done."
 - **Development Lead**: "And I'll do the same for any engineering work required."
 - **Quality Verifier**: "Great! I'll be responsible for doing a final check to ensure the soup is hot, tasty, and something we're proud to serve."
 
-
-
+- **Driver**: "Hey can we make it potato soup instead, and delivered it Feb 28?"
+- **Decision-Maker**: "Nope, sorry. It has to be carrot soup, on Feb 21."
+- **Driver**: "Okey doke. I'll make sure that happens." 
 
 
