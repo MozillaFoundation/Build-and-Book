@@ -13,6 +13,7 @@ When in doubt, file under [webmaker.org](https://github.com/mozilla/webmaker.org
 * [Mozilla Learning](https://github.com/MozillaFoundation/Mozilla-Learning/issues)
 * [Mozilla Hive](https://github.com/MozillaHive) 
 * [Web Literacy Map](https://github.com/mozilla/webliteracymap/issues)
+* [MozFest] (https://github.com/Saallen/MozFestroadmap)
 
 ***New Communities***
 * [ScienceLab](https://github.com/mozilla/sciencelab)
