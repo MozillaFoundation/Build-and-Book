@@ -11,15 +11,8 @@ When in doubt, file under [webmaker.org](https://github.com/mozilla/webmaker.org
 
 ***Learning Networks***
 * [Mozilla Learning](https://github.com/MozillaFoundation/Mozilla-Learning/issues)
-* [Curriculum](https://github.com/mozilla/webmaker-curriculum/issues)
-* [Webmaker Training](https://github.com/mozilla/school-of-webmaking/issues)
-* [Webmaker whitepapers](https://github.com/mozilla/webmaker-whitepaper/issues)
-* [Web Literacy Map](https://github.com/mozilla/webliteracymap/issues)
-
-***Hive***
 * [Mozilla Hive](https://github.com/MozillaHive/issues) 
-* [Hive NYC](https://github.com/MozillaHive/HiveNYC.org/issues)
-* [Portland/Hive Cascadia](http://github.com/Saallen/Mentor-dev-doc-hub/issues)
+* [Web Literacy Map](https://github.com/mozilla/webliteracymap/issues)
 
 ***New Communities***
 * [ScienceLab](https://github.com/mozilla/sciencelab)
