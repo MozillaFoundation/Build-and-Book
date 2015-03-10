@@ -14,7 +14,7 @@ This is the TOC on the sidebar.  Probably shows up in a PDF version too.
   * [Demos](demos.md)
 * [Our issue tracker](github_overview.md)
   * [Getting started](github_start.md)
-  * [Top tips](github_tips.md)
+  * [Top tips](tips.md)
   * [Where to file](github_repos.md)
   * [Planning Tickets](plan.md)
   * [FAQ](github_faq.md)
