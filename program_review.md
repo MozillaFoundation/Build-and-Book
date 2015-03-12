@@ -8,7 +8,8 @@
 *   **When: **Every quarter for programs. Twice yearly for support teams (Engagement and Ops). (A calendar w. specific dates is taking shape here: [http:&#x2F;&#x2F;mzl.la&#x2F;draft_calendar](http&#x3a;&#x2F;&#x2F;mzl&#x2e;la&#x2F;draft&#x5f;calendar) )
 *   **Why:** Increase transparency across teams. Ensure we&#x27;re on track w. our strategic goals. Share knowledge. Streamline our board reporting.
 *   **How: **One-hour format. A 30-minute presentation using a shared MoFo template. Followed by 30 mins of Q&amp;A with an audience of ~30 colleagues.&nbsp;
-**Key links**
+
+#### Key links
 
 *   MoFo Program Review and Board Meeting calendar: [http:&#x2F;&#x2F;mzl.la&#x2F;draft_calendar](http&#x3a;&#x2F;&#x2F;mzl&#x2e;la&#x2F;draft&#x5f;calendar)
 *   MoFo Program Review slide template:&nbsp; [http:&#x2F;&#x2F;mzl.la&#x2F;template](http&#x3a;&#x2F;&#x2F;mzl&#x2e;la&#x2F;template)
@@ -17,12 +18,14 @@
 
 *   **Goals**:** **overview of 2015 Goals + their current state &#x2F; KPIs.
 *   **Key Initiatives**: + their current state
-*   **Next quarter&#8217;s initiatives. **Looking ahead to Q2. Goals + milestones** **w. dates. A high-level roadmap &#x2F; calendar for the quarter. Including: engagement &#x2F; go-to-market.
+*   **Next quarter&#8217;s initiatives. **Looking ahead to Q2. Goals + milestones** **w. dates. Including: engagement &#x2F; go-to-market.
 *   **Landscape. **Looking outward. What&#x27;s happening in the larger space? Key trends, shifts, competitors, etc.
 *   **User &#x2F; Community Sentiment.** How is our target audience feeling? What are we hearing from them?&nbsp;
 *   **Partnerships**: health + key activities
 *   **Funding pipeline. **What grants are in the pipeline now? What new grants have come in since last review? Are we facing any financial challenges?
-*   **Asks and Needs. **Key challenges &#x2F; meaty questions. Decisions needed. Where you need help.Slide template for this: [http:&#x2F;&#x2F;mzl.la&#x2F;template](http&#x3a;&#x2F;&#x2F;mzl&#x2e;la&#x2F;template)
+*   **Asks and Needs. **Key challenges &#x2F; meaty questions. Decisions needed. Where you need help.
+
+Slide template for this: [http:&#x2F;&#x2F;mzl.la&#x2F;template](http&#x3a;&#x2F;&#x2F;mzl&#x2e;la&#x2F;template)
 
 # MoFo Program Review Goals
 
@@ -63,14 +66,18 @@ The emphasis is on honest, critical feedback from colleagues, in a safe space. A
 ### Sample audience mix 
 Here&#x27;s what a sample Program Review audience might look like for Open News, for example:&nbsp;
 
-*   **Shared &#x2F; cross-program:&nbsp;**
+**Shared &#x2F; cross-program:&nbsp;**
+- A Mozilla board member
+- MoFo management team
+- Program managers from other teams
+- Funding pipeline &#x2F; fundraising rep
+- Engagement &#x2F; marketing&nbsp; rep**   **Program-specific:&nbsp;**
 
-*   A Mozilla board member
-*   MoFo management team
-*   Program managers from other teams
-*   Funding pipeline &#x2F; fundraising rep
-*   Engagement &#x2F; marketing&nbsp; rep**   **Program-specific:&nbsp;**
-
+**Program-specific:**
+- Open News staff 
+- News partner(s) / host(s) of Fellows
+- A past or current Fellow
+- Kaitlin and Dave (other program leads) 
 
 **Next steps**
 *   **Learning from MoCo**. Matt, David and program managers will attend the first MoCo Program Review for Firefox OS. To gain ideas on format and process.
