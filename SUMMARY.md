@@ -18,7 +18,7 @@ This is the TOC on the sidebar.  Probably shows up in a PDF version too.
   * [Top tips](tips.md)
   * [Where to file](github_repos.md)
   * [Planning Tickets](plan.md)
-  * [FAQ](github_faq.md)
+  * [FAQ](faq.md)
 * [Design Handbook](design.md)
 * [Engineering Handbook](engineering.md)
 * [Communications](comms.md)
