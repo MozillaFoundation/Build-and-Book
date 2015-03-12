@@ -12,6 +12,7 @@ This is the TOC on the sidebar.  Probably shows up in a PDF version too.
   * [Kick-offs](kickoffs.md)
   * [Sign-offs](checklist.md)
   * [Demos](demos.md)
+  * [Program Reviews](program_review.md)
 * [Our issue tracker](github_start.md)
   * [Getting started](github_start.md)
   * [Top tips](tips.md)
