@@ -1,13 +1,4 @@
 
-A Guide to GitHub Issues for MoFos
-=====
-
-The  Mozilla Foundation is increasingly using GitHub issues for our issue tracking and getting stuff done. We think you'll find it a lot simpler  and easier to use than Bugzilla (which we still support and will  continue to use as well, just not as much). This introductory guide is  meant to:
-
-* answer frequently asked questions
-* help you get started
-* offer some top tips to make your GitHub issues experience easier and better.
-
 ## Questions
 
 * [Why are we using GitHub?](#why)
@@ -73,12 +64,7 @@ Here's a [testing sandbox](https://github.com/k88hudson/githubtraining) you can 
 
 * Check out [build.webmaker.org](https://build.webmaker.org). It  makes a lot of this GitHub stuff waaaaay easier. (And we can improve it as we go). If you want to see what we're working on,  propose a new project idea, or get an overview of how we're using GitHub, this is a great place to start. 
 
-* When in doubt, file a ticket here, in the "Planning" repo: https://github.com/MozillaFoundation/plan/issues/new Or for a larger proposed piece of work, use the build.webmaker.org project intake form: https://github.com/MozillaFoundation/plan/issues/new http://build.webmaker.org/intake (still not totally clear the difference between these two options. is someone doing triage on the intake form, and is that prefereable to avoid clutter in the planning repo?)
-
-* (can we also tell people 'how to file a bug' seperately to 'how to propose a new project', even if these end up as issues in the same repo. People will be looking for different language when they just want to file something they have noticed - and promote the 'report a bug' form somewhere on the public facing site).
-
 We've put together some more [GitHub tips](/tips.html)
-
 
 
 ## <a name="im_stuck"></a>What should I do if I'm stuck or have a question?
