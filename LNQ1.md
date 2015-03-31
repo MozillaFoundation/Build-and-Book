@@ -92,10 +92,12 @@ Making and DIY culture has become more prominent in the education space, with Ma
 Over the next few years, billions of first-time web users will come online via mobile devices. Based on some of the [reflections from Mozilla's recent involvement at Mobile World Congress](https://blog.webmaker.org/reflections-on-mobile-world-congress-the-power-of-an-open-mobile-web), we see a big opportunity to teach mobile web literacy while inviting creativitity connected to locally relevant content.
 
 
-So it's a crowded space, and we know
-We have to have a strong point of view about how we’re different in this landscape.
-Teaching web literacy increases people’s understanding about the opportunity and potential of the web, that is anchored, supported and informed by Mozilla’s values.
-Within this landscape, we know we have unique point-of-view, but may need to sharpen it more. 
+_It's a crowded space. We know we need to have a strong point of view about how we’re different._
+
+Teaching web literacy increases people’s understanding about the opportunity and potential of the web, that is anchored, supported and informed by Mozilla’s values. Within this landscape, we believe we're different because we’re teaching the mechanics, culture and citizenship of the web. It’s social, production-centered, open, locally relevant and reflective.
+
+We’re building a volunteer ecosystem and organizing model for leadership development. Convening educators and activists who want to teach the next generation of web citizens.
+
 Our model for leadership development empowers education leaders that can then take our tools, mission and practices into their work.
 
 Slide 14 - User Sentiment [MICHELLE]
