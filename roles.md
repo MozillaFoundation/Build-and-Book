@@ -1,4 +1,4 @@
-![roles](/http://i.imgur.com/U6mlLZp.jpg)
+![roles](http://i.imgur.com/U6mlLZp.jpg)
 ## Project Roles: who does what?
 
 **Every project has a set of roles**. We list these roles clearly in the project's **Planning Ticket**. Those roles are:
