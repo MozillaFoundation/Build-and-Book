@@ -14,7 +14,7 @@
 - 2) **Be clear about the difference between the "Driver" and "Decision-Maker".** This can be confusing. The _Driver_ steers the car; the _Decision-Maker_ decides where to go. The Decision-Maker doesn't need to be involved in the minutiae of every single task (that's the Driver's job.) But they set the overall goal, and decide whether the work meets that goal.
 - 3) **Take quality seriously**. Every project has a Quality Verifier. We don't just finish work and chuck it out the door; we take the time to ensure it's done right and that our users will love it. That's the Quality Verifier's job. 
 
-![screengrab](/https://dl.dropboxusercontent.com/spa/6c38yp3crbxni5b/-u7jb6q9.png)
+![screengrab](https://dl.dropboxusercontent.com/spa/6c38yp3crbxni5b/-u7jb6q9.png)
 
 ## <a name="owner"></a>What does the Driver do? 
 
