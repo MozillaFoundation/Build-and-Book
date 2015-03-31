@@ -85,24 +85,14 @@ Here is some insight regarding aligned movements and organizations that are also
 ****"Learning to code" and computer science are more mainstream****
 Huge campaigns like Code.org’s Hour of Code, and Google’s “CS First” bring introductory and sustained programs to youth. Coding is generally seen as a more valued skill than it has been in the past -- but we’re not always sure to what end.
 
-Hands-on pedagogy also gaining popularity
-A lot of this is driven by making/DIY culture, which has also become more prominent in education
-Maker Media has been a leading force here. US declared Nat’l Day of Making last year in conjunction with White House Maker Faire
-Scratch, Minecraft, littleBits and other tools/programs are being used more widely in 3rd party digital learning programs and also building their own communities
+****Hands-on pedagogy is also gaining popularity****
+Making and DIY culture has become more prominent in the education space, with Maker Media as a leading force. In 2014, there was the first-ever White House Maker Faire and a declaration for a new National Day of Making. Tools such as Scratch, Minecraft and littleBits are being more widely used in third party digital learning programs, while they're also expanding efforts to build their own global communities with local nodes. 
 
-Cities of Learning
-MacArthur has supported and sustained Mozilla's visionary growth -- however this new effort poses both opportunity and threat.
-Opportunity: Cities of Learning's municipal-level scale can bring new funds and visibility to Mozilla Learning Networks
-Threat: May be competition as exclusive means for educational change in a city.
-
-Mobile Web
-Over the next few years billions of first-time web users will come online via mobile devices
-Reference 
-MWC
-opportunity to teach web literacy and the open web as a platform by creating locally relevant content
+****The mobile Web presents new possibilities****
+Over the next few years, billions of first-time web users will come online via mobile devices. Based on some of the [reflections from Mozilla's recent involvement at Mobile World Congress](https://blog.webmaker.org/reflections-on-mobile-world-congress-the-power-of-an-open-mobile-web), we see a big opportunity to teach mobile web literacy while inviting creativitity connected to locally relevant content.
 
 
-Slide 13 - Landscape - How we’re different [CHRIS] 
+So it's a crowded space, and we know
 We have to have a strong point of view about how we’re different in this landscape.
 Teaching web literacy increases people’s understanding about the opportunity and potential of the web, that is anchored, supported and informed by Mozilla’s values.
 Within this landscape, we know we have unique point-of-view, but may need to sharpen it more. 
