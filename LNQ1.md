@@ -12,7 +12,7 @@ In 2015, we aim to achieve this by:
 
 _**In 2015, our key performance indicator (KPI)is 500 cities with ongoing Learning Network activity.**_
 
-![teach](http://imgur.com/UZk1BB3)
+![image](http://imgur.com/UZk1BB3)
 
 Mozilla Web Clubs is a new initiative for us this year. It evolved from the success of Maker Party, which is a campaign we’ve been running for the last few years towards activation.
 With Mozilla Web Clubs, we want to take these sparks of activation from Maker Party and sustain them year round. 
@@ -166,9 +166,12 @@ Send around a Save the Date
 Finalize several critical logistical pieces
  
 
-Slide 21 - Needs & Asks - Discussion [CHRIS]
+##  How You Can Help
+Here are some of our key challenges. We'd love to hear your thoughts and feedback for how we might adress these as we head into Q2. 
 
-Questions also in etherpad
-These first two are more practical requests, around how we might better track sustained engagement, and incentivize our community to actively self-report and share reflections. 
-Also, we’re about to establish some new branding, when we’ve built the ground game in deep connection with Webmaker tools. We want to be thoughtful about how we transition the community through that - understanding there will still be overlap and connectors. 
-Finally, in connection with Mozilla’s broader goals to measure the impact of our relationships - would love your thoughts on better markers, metrics and qualifiers for what impact looks like.
+****It's hard to track "sustained engagement."**** We often rely on contributors to self-report their activity. How can we incentivize updates and reflection from community members? How do other orgs tackle this? 
+
+****Establishing new brand relationships.**** Our current community of educators grew in deep connection with Webmaker products, however in 2015 we made a decision to more closely align learning network efforts with the Mozilla brand. How can we best transition the community through this - understanding there will still be overlap and connectors?
+
+****Quantifying impact.**** We’re getting better at demonstrating quantity, as in the numbers of events, or cities reached, but those measurements of growth are a surrogate for impact -- and it isn’t enough. How do we get better at measuring the relationships we’re building to support the open web for teaching and learning?
+
