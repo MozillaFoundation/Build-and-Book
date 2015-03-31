@@ -14,6 +14,10 @@ _**In 2015, our key performance indicator (KPI)is 500 cities with ongoing Learni
 
 ![image](http://imgur.com/UZk1BB3)
 
+Our work emcompasses several key programs, with varying levels of engagement.
+
+##Maker Party
+
 Mozilla Web Clubs is a new initiative for us this year. It evolved from the success of Maker Party, which is a campaign we’ve been running for the last few years towards activation.
 With Mozilla Web Clubs, we want to take these sparks of activation from Maker Party and sustain them year round. 
 Clubs are local groups teaching the web on a regular basis. 
@@ -74,14 +78,12 @@ We’ll also continue the successful Hive Global meet-up, which catalyzed new ci
 
 just about 10 minute mark
 
-Slide 12 - Landscape [CHRIS]
+## The View from Above
 
-This is a look at what are aligned movements and organizations in the digital learning space
-We are also a driver in this space, and have done a good job of partnering with others  by participating in their campaigns, and finding ways to align with our values/tools/community. 
+Here is some insight regarding aligned movements and organizations that are also in the digital learning space. Note that we also see Mozilla as a key driver in this space, and think we've done a good job of partnering with others, by finding ways to align external campaigns with our values, tools and community. 
 
-Learning to Code/CS are more mainstream
-Huge campaigns led by tech companies and organizations (Code.org’s Hour of Code, Google’s “CS First” ) bring introductory and sustained programs to youth
-Coding is generally seen as a more valued skill than it has been in the past -- but we’re not sure to what end.
+****"Learning to code" and computer science are more mainstream****
+Huge campaigns like Code.org’s Hour of Code, and Google’s “CS First” bring introductory and sustained programs to youth. Coding is generally seen as a more valued skill than it has been in the past -- but we’re not always sure to what end.
 
 Hands-on pedagogy also gaining popularity
 A lot of this is driven by making/DIY culture, which has also become more prominent in education
