@@ -14,14 +14,15 @@ Our work encompasses several key initiatives, with varying levels of engagement.
 
 ![image](http://hivelearningnetworks.org/wp-content/uploads/2015/01/Screen-Shot-2015-01-06-at-10.24.22-AM.png)
 
-- SMALL (Mobilizing Community) Maker Party drives initial activation and engagement via one-off events of all sizes
-- MEDIUM (Sustaining Engagement) Mozilla Web Clubs enable local leaders to put stakes in the ground in their communities through more regular programming
-- LARGE (Building Communities) Hive Learning Networks are city-wide hubs where individuals, organizations and other stakeholders collaborate to incubate content, partnerships, and practices for teaching digital skills
+- **SMALL** (Mobilizing Community) Maker Party drives initial activation and engagement via one-off events of all sizes
+- **MEDIUM** (Sustaining Engagement) Mozilla Web Clubs enable local leaders to put stakes in the ground in their communities through more regular programming
+- **LARGE** (Building Communities) Hive Learning Networks are city-wide hubs where individuals, organizations and other stakeholders collaborate to incubate content, partnerships, and practices for teaching digital skills
 
 ##Our Community
 Our community is comprised of educators and activists. Activists are driven by our mission and join us to develop skills to teach the web and share their knowledge with others. Educators join us because they want to embed the web and digital literacy into their practice, and help their learners understand the possibilities offered by the open web.   
 
-![image](http://i.imgur.com/FKiX1g0.png)
+![image](http://i.imgur.com/UZk1BB3.png)
+
 
 Here is further detail on our Q1 progress and Q2 goals for our key initiatives and supporting infrastructures. 
 
@@ -33,11 +34,14 @@ Between now and June, we'll be working closely with the Engagement team to hone 
 ##Mozilla Web Clubs
 This is a new initiative for us this year, evolved from the success of Maker Party. It's our effort to take the sparks of activation from Maker Party and sustain them year round via local groups teaching the web on a more regular basis. We want to offer rigorous skills development while also modeling social, participatory learning, as research shows this is one of the most effective ways to teach and learn. 
 
+![image](http://i.imgur.com/HBw4K9s.png)
+
 In Q1 we curated the our first curriculum module, Web Literacy Basics. It’s a series of six community-grown activities covering the foundations of reading, writing and participating on the web. We field-tested these activities with 40 educators and learners from 24 cities including Helsinki (Finland), Pune (India), Baltimore (US), Wellington (NZ), and Cape Town (S. Africa). 
 
-To ensure that Clubs are well-serviced, we also put a plan into place to adopti a more intentional volunteer organizing model that includes three specific roles: Club Leader, Regional Coordinator, and Organizer. This model was heavily informed by other organizations like Obama for America, Free the Children, and Coder Dojo. 
+To ensure that Clubs are well-serviced, we also put a plan into place to adopt a more intentional volunteer organizing model that includes three specific roles: Club Leader, Regional Coordinator, and Organizer. This model was heavily informed by other organizations like Obama for America, Free the Children, and Coder Dojo. 
 
 In Q2, we'll focus on on-boarding volunteer Regional Coordinators and continuing to develop new curriculum for Clubs, on topics including Privacy, Mobile and “Teach like Mozilla”
+
 
 ##Hive Learning Networks
 We started 2014 with 7 official Hive cities, and are currently at 11. In large part this is due to  momentum following the first (and successul) Hive Global Meet-Up at MozFest last October. That convening offered an effective way to build bonds and encourage in-person connections and collaborations across cities. 
@@ -49,6 +53,7 @@ Over the next few months, we'll draw more explicit links between Clubs and burge
 
 ##teach.mozilla.org
 We spent a bulk of Q1 researching, developing and testing a new site that will serve as a hub for all Mozilla Learning Networks initiatives. The site, which will live at teach.mozilla.org, is on track for a soft launch in mid-April. This is the first time we’ll have a dedicated site that integrates our full offering. In Q2, we'll scope and start to build a directory for our community to more easily connect with each other based on their expertise and interests, and will add more dynamic content to the site, i.e. blogs, curriculum, community features.
+![image of teach.mozilla.org](http://i.imgur.com/BxChHnF.png)
 
 ##Badges
 In the first quarter of this year, our focus has been on planning and decision making, not implementation. Our short-term priority is to enhance the user experience for badge issuers and badge earners. For example, improving the badge review queue and gaining easier access to badge “evidence” after it's been submitted.  In order to prioritize building the teach.mozilla.org site, this work on badges has been stalled, but will pick up this Spring as we work to enhance the current system and build out a few new programmatic badges. 
