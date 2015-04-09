@@ -16,7 +16,7 @@ Our work encompasses several key initiatives, with varying levels of engagement.
 
 - **SMALL** (Mobilizing Community) Maker Party drives initial activation and engagement via one-off events of all sizes
 - **MEDIUM** (Sustaining Engagement) Mozilla Web Clubs enable local leaders to put stakes in the ground in their communities through more regular programming
-- **LARGE** (Building Communities) Hive Learning Networks are city-wide hubs where individuals, organizations and other stakeholders collaborate to incubate content, partnerships, and practices for teaching digital skills
+- **LARGE** (Building Networks) Hive Learning Networks are city-wide hubs where individuals, organizations and other stakeholders collaborate to incubate content, partnerships, and practices for teaching digital skills
 
 ##Our Community
 Our community is comprised of educators and activists. Activists are driven by our mission and join us to develop skills to teach the web and share their knowledge with others. Educators join us because they want to embed the web and digital literacy into their practice, and help their learners understand the possibilities offered by the open web.   
