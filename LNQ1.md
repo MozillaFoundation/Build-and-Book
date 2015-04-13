@@ -113,7 +113,7 @@ This criteria builds on the success of relationships with networks and organizat
 ##How You Can Help
 Here are some of our key challenges. We'd love to hear your thoughts and feedback for how we might adress these as we head into Q2. 
 
-****It's hard to track "sustained engagement."**** We often rely on contributors to self-report their activity. How can we incentivize updates and reflection from community members? How do other orgs tackle this? 
+****It's hard to track "sustained engagement."**** We often rely on contributors to self-report their activity. How can we incentivize updates and reflection from community members? How do other organizations tackle this? 
 
 ****Establishing new brand relationships.**** Our current community of educators grew in deep connection with Webmaker products, however in 2015 we made a decision to more closely align learning network efforts with the Mozilla brand. How can we best transition the community through this - understanding there will still be overlap and connectors?
 
