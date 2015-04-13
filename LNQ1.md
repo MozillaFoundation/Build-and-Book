@@ -12,7 +12,7 @@ _**In 2015, our key performance indicator (KPI) is 500 cities with ongoing Learn
 
 Our work encompasses several key initiatives, with varying levels of engagement.
 
-![image](http://hivelearningnetworks.org/wp-content/uploads/2015/01/Screen-Shot-2015-01-06-at-10.24.22-AM.png)
+![image](http://i.imgur.com/jwR9j07.png)
 
 - **SMALL** (Mobilizing Community) Maker Party drives initial activation and engagement via one-off events of all sizes
 - **MEDIUM** (Sustaining Engagement) Mozilla Web Clubs enable local leaders to put stakes in the ground in their communities through more regular programming
