@@ -15,7 +15,7 @@ Our work encompasses several key initiatives, with varying levels of engagement.
 ![image](http://i.imgur.com/jwR9j07.png)
 
 - **SMALL** Maker Party drives initial activation and engagement via one-off events of all sizes
-- **MEDIUM** Mozilla Web Clubs enable local leaders to put stakes in the ground in their communities through more sustained programming
+- **MEDIUM** Mozilla Clubs enable local leaders to put stakes in the ground in their communities through more sustained programming
 - **LARGE** Hive Learning Networks are city-wide hubs where individuals, organizations and other stakeholders collaborate to incubate content, partnerships, and practices for teaching digital skills
 
 ##Our Community
@@ -27,11 +27,11 @@ Our community is comprised of educators and activists. Activists are driven by o
 Here is further detail on our Q1 progress and Q2 goals for our key initiatives and supporting infrastructures. 
 
 ##Maker Party
-Our goal for Maker Party this year is to tee up year-long engagement and seed Mozilla Web Clubs. This year, we'll focus efforts on a two-week campaign, July 15-31, which is also historically the busiest two weeks of previous Maker Party campaigns. We’ll plan to highlight individual activities from the Clubs curriculum as a hook to drive participation.
+Our goal for Maker Party this year is to tee up year-long engagement and seed Mozilla Clubs. This year, we'll focus efforts on a two-week campaign, July 15-31, which is also historically the busiest two weeks of previous Maker Party campaigns. We’ll plan to highlight individual activities from the Clubs curriculum as a hook to drive participation.
 
 Between now and June, we'll be working closely with the Engagement team to hone our marketing plan. We'll also begin initial outreach, coordinating with partners and other teams across Mozilla to maximize impact. 
 
-##Mozilla Web Clubs
+##Mozilla Clubs
 This is a new initiative for us this year, evolved from the success of Maker Party. It's our effort to take the sparks of activation from Maker Party and sustain them year round via local groups teaching the web on a more regular basis. We want to offer rigorous skills development while also modeling social, participatory learning, as research shows this is one of the most effective ways to teach and learn. 
 
 ![image](http://i.imgur.com/HBw4K9s.png)
@@ -95,7 +95,7 @@ Here are a few quotes that illustrate what's working across these programs, as w
  
 > Our partnership with Hive makes us fresh, keeps us moving forward rather than doing the same old thing all the time. ~Dr. Michelle Larson, President and CEO, Adler Planetarium, Hive Chicago member
 
-> We had constant demand from our community members for web literacy classes, and we were finally able to create a great recipe with Web Clubs and curriculum.
+> We had constant demand from our community members for web literacy classes, and we were finally able to create a great recipe with Mozilla Clubs and curriculum.
 ~Elio Qoshi, Super Mentor/Mozilla Rep, Albania 
 
 
