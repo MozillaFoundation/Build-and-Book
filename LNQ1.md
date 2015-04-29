@@ -12,7 +12,7 @@ _**In 2015, our key performance indicator (KPI) is 500 cities with ongoing Learn
 
 Our work encompasses several key initiatives, with varying levels of engagement.
 
-![image](http://i.imgur.com/jwR9j07.png)
+![image](http://i.imgur.com/NcCaS0G.png)
 
 - **SMALL** Maker Party drives initial activation and engagement via one-off events of all sizes
 - **MEDIUM** Mozilla Clubs enable local leaders to put stakes in the ground in their communities through more sustained programming
