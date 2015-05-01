@@ -10,7 +10,8 @@ When in doubt, file under [webmaker.org](https://github.com/mozilla/webmaker.org
 * [Other Webmaker repos](https://github.com/mozilla/?query=webmaker) 
 
 ***Learning Networks***
-* [Mozilla Learning](https://github.com/MozillaFoundation/Mozilla-Learning/issues)
+* [Programs (Clubs, Maker Party, etc.)](https://github.com/mozilla/learning-networks/issues)
+* [teach.mozilla.org](https://github.com/mozilla/teach.webmaker.org/issues)
 * [Mozilla Hive](https://github.com/MozillaHive) 
 * [Web Literacy Map](https://github.com/mozilla/webliteracymap/issues)
 * [MozFest](https://github.com/Saallen/MozFestroadmap)
