@@ -1,4 +1,4 @@
-##Mozilla Foundation Demos## 
+##Mozilla Foundation Demos
 Demos happen every Friday at 10am PST, 1pm EST, 6pm GMT
 - Demos etherpad: https://public.etherpad-mozilla.org/p/foundation-demos
 - Join via video conference: Vidyo room: [Mofo](http://bit.ly/mofodemos)
