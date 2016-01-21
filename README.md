@@ -1,7 +1,5 @@
-![Welcome to the Movement]({{site.baseurl}}/images/welcome-to-the-movement.jpg)
-# Building the Mozilla Foundation together
-
-[Our goal: fuel the movement](https://wiki.mozilla.org/MoFo_2020) to grow and protect the promise of the open internet. Together we will shape the agenda, connect leaders and rally citizens.
-
-**How we work: open, agile, mission-driven.** With a big emphasis on continous learning, collaborating across teams, and driving new forms of participation at Mozilla.
-
+# How we work
+**Open. Agile. Fun.** Working hands-on with our global community. That’s how we work at [Mozilla Webmaker.](http://webmaker.org/) This handbook documents the **systems**, **tools** and **controlled chaos** we use to do that. [Let us know](https://github.com/MozillaFoundation/book.webmaker.org/issues/new) if you have questions, suggestions or see something here that's missing or wrong -- or just say hello any time. 
+### [![Surman Keynote for Day One - Edit.002](http://openmatt.org/wp-content/uploads/2015/01/Surman-Keynote-for-Day-One-Edit.002-1024x576.jpg)](http://openmatt.org/wp-content/uploads/2015/01/Surman-Keynote-for-Day-One-Edit.002.jpg)
+### Our mission
+**[Our non-profit mission](http://webmaker.org/about) is to build a more web literate world**, empowering people to teach and learn the skills they need to thrive, create and lead in a digital age. We're deeply committed to working the open source way. Our goal is clear documentation, on-ramps, and clear ways to see and track our work. With a shared vision what we're working on together each two-week [sprint](http://build.webmaker.org/now), [quarter](https://wiki.mozilla.org/Foundation/2015/Q1) and [year](https://blog.webmaker.org/2015_plan).
