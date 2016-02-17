@@ -6,11 +6,11 @@ node_js:
 script: gitbook build
 deploy:
   provider: s3
-  access_key_id: AKIAJ643ITA2WHMEIC7A
+  access_key_id: AKIAIZGNWTZNX5WAIRBQ
   secret_access_key:
-    secure: YAsUEHoOlPW9KlQRKYqaW/bjBGJF58udYNOekdEz9uvT2usU9d9fgB+pJA/m7hHXeAqUTk3U+Br2iLBN2Y5RoGey+oBy+cN6KgSHeChR1a7+iBvGA+JeA/sMpVYYbcMSJMk0wIrbsINgxcgXM0ws79ZQO9Vspiv5InSBc/oFO8Y=
-  bucket: book.webmaker.org
+    secure: "jsAMhWAH2zm20vZYlaBcqb3WCVw+qASeCW6gQW78pKyLATBdOU4yyOg+LgVJ7tkx7M1t4k2YPljcb4UmJMcN9EIuau+0Pquc1qy3U6VmSDa/KJwrncMxXvYTWqUTCR+iLaL/qZWVtTAkhqeujwE38vQ8qvu0UM3C0v2PmJ04UmY="
+  bucket: book-mozillafoundation-org-s3bucket-4hskoi4m627q
   acl: public_read
   skip_cleanup: true
-  endpoint: book.webmaker.org.s3-website-us-east-1.amazonaws.com
+  endpoint: book-mozillafoundation-org-s3bucket-4hskoi4m627q.s3-website-us-east-1.amazonaws.com
   local_dir: _book
