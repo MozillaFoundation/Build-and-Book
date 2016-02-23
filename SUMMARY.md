@@ -19,8 +19,8 @@ This is the TOC on the sidebar.  Probably shows up in a PDF version too.
   * [Where to file](github_repos.md)
   * [Planning Tickets](plan.md)
   * [FAQ](faq.md)
+* [The Calypso Guide](calypso.md)
 * [Design Handbook](design.md)
 * [Engineering Handbook](engineering.md)
 * [Communications](comms.md)
 * [Edit this book](about.md)
-
