@@ -30,14 +30,14 @@ The CMS is ideal for the following situations:
 
 *(see layouts here: https://github.com/mozilla/mofo-cms-experiment/issues/23)*
 
-|<img src="https://cloud.githubusercontent.com/assets/1119821/13264035/57901804-da3a-11e5-8277-05c53adb8e01.png" alt="UI Tile 1" style="width: 226px;"/> |<img src="https://cloud.githubusercontent.com/assets/1119821/13264157/de696768-da3a-11e5-84d2-af3b077fc2dc.png" alt="UI Tile 2" style="width: 226px;"/>| <img src="https://cloud.githubusercontent.com/assets/1119821/13264333/a09f441a-da3b-11e5-9bbd-ecd5ce115914.png" alt="UI Tile 3" style="width: 226px;"/> |
-|----------|-------------|------|
+|<img src="https://cloud.githubusercontent.com/assets/1119821/13264035/57901804-da3a-11e5-8277-05c53adb8e01.png" alt="UI Tile 1" style="width: 226px;"/> |<img src="https://cloud.githubusercontent.com/assets/1119821/13292226/ec97d1cc-dae8-11e5-92d1-8873d38eb637.png" alt="UI Tile 2" style="width: 226px;"/>| <img src="https://cloud.githubusercontent.com/assets/1119821/13264333/a09f441a-da3b-11e5-9bbd-ecd5ce115914.png" alt="UI Tile 3" style="width: 226px;"/> |
+|:----------:|:-------------:|:------:|
 | **Step-by-step with side nav** |  **Two-column, embedded video stream and etherpad** | **Header image without CTA and alternating blocks** |
 | Create guides, lesson plans, and other informational documents. The side nav lets visitors progress through step-by-step content. |    This layout can be used to create landing pages for recurring live-streamed events, such as community calls. | This layout can be used as a landing page for an event, program, or campaign. You can choose whether your feature image has a CTA, or if you have several CTAs aligned in a row. |
 | View an example [here](https://github.com/mozilla/mofo-cms-experiment/issues/21) | View an example [here](https://github.com/mozilla/mofo-cms-experiment/issues/17) |  |
 
 |<img src="https://cloud.githubusercontent.com/assets/1119821/13264573/cdeb3414-da3c-11e5-92b4-abe543c048a7.png" alt="UI Tile 4" style="width: 226px;"/> |<img src="https://cloud.githubusercontent.com/assets/1119821/13264660/3aeeafdc-da3d-11e5-8d4d-7a33788d279d.png" alt="UI Tile 5" style="width: 226px;"/>|
-|----------|-------------|
+|:----------:|:-------------:|
 | **Header image with CTA and CTAs in a row** |  **List** |
 |  | Use this layout to curate a set of links you wish to share with your community. |
 |  | View an example [here](https://github.com/mozilla/mofo-cms-experiment/issues/25) |  |
